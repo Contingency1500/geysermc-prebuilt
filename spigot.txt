@@ -1,0 +1,2 @@
+https://www.mediafire.com/file/3rsxje0wu2zv795/spigot-1.16.5.jar/file
+download it here and put it inside the of the same folder where everything else is located like server.bat
