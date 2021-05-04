@@ -6,3 +6,5 @@ you want to connect to the bedrock tunnel with the ip followed by the port in th
 thanks for reading
 
 ok to run the server just run server.bat and connect with the ips that playit gives u. it's pretty simple don't ask me for retarded questions
+
+ps open spigot.txt or ur retarded
